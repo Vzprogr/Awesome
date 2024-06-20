@@ -191,6 +191,7 @@
 
 ### Games
 
+- [Free Orion](http://freeorion.org/) - Master of Orion-inspired turn-based game of epic space strategy that builds on the classic '4X' model by incorporating the nation-building elements of games such as Europa Universalis 2 and a versatile tactical combat engine.
 - [0 A.D.](https://play0ad.com/) - A free, open-source real-time strategy game of ancient warfare. [![Open-Source Software][oss icon]](https://github.com/0ad/0ad) ![Freeware][freeware icon]
 - [Awesome Games](https://github.com/leereilly/games) - List of games hosted on Github. ![Freeware][freeware icon]
 - [Freeciv](http://www.freeciv.org/) - A Free and Open Source empire-building strategy game inspired by the history of human civilization. [![Open-Source Software][oss icon]](https://github.com/freeciv/) ![Freeware][freeware icon]
@@ -222,6 +223,7 @@
 - [Neovim](https://neovim.io/) - literally the future of vim [![Open-Source Software][oss icon]](https://github.com/neovim/neovim) ![Freeware][freeware icon]
 - [Notepad++](https://notepad-plus-plus.org/) - A source code editor which supports several programming languages. [![Open-Source Software][oss icon]](https://github.com/notepad-plus-plus/notepad-plus-plus) ![Freeware][freeware icon]
 - [Notepad2](http://www.flos-freeware.ch/notepad2.html) - Tiny and fast Notepad replacement with many useful features. ![Open-Source Software][oss icon] ![Freeware][freeware icon]
+- [Notepad3](https://rizonesoft.com/downloads/notepad3/) - Rooted in the legacy of the remarkable Notepad2 by Florian Balmer and the Notepad2-mod by XhmikosR, Notepad3 stands as a testament to their foundational work.
 - [Oni](http://onivim.io/) - Modern Modal Editing - powered by Neovim [![Open-Source Software][oss icon]](https://github.com/onivim/oni) ![Freeware][freeware icon]
 - [SpaceVim](https://spacevim.org) - A community-driven vim distribution [![Open-Source Software][oss icon]](https://github.com/onivim/oni) ![Freeware][freeware icon]
 - [Sublime Text 3](http://www.sublimetext.com/3) - The sophisticated text editor.
@@ -283,8 +285,10 @@
 - [One Commander](http://onecommander.com/) - File manager featuring miller columns and dual-pane views. ![Freeware][freeware icon]
 - [Scoop](https://github.com/lukesampson/scoop) - A command-line installer for Windows. [![Open-Source Software][oss icon]](https://github.com/lukesampson/scoop) ![Freeware][freeware icon]
 - [Simplenote](https://simplenote.com/) - Simple cross-platform note taking app with cloud-based syncing. ![Freeware][freeware icon]
+- [CintaNotes](https://cintanotes.com/) - Smart Note-Taker - Advanced notepad with tags. Try this fast and convenient Windows program with the ability to capture text from anywhere with a hotkey!
 - [Taskade](https://taskade.com/) - Smart task lists with real-time cross-platform syncing and team collaboration. ![Freeware][freeware icon]
 - [Total Commander](https://www.ghisler.com/) - The best file manager for Windows.
+- [Far Manager](https://farmanager.com/) - Another best file manager for Windows.
 - [WordWeb](http://wordweb.info/) - A very good English dictionary for windows. ![Freeware][freeware icon]
 - [Wox](http://www.wox.one/) - An effective launcher for windows. [![Open-Source Software][oss icon]](https://github.com/Wox-launcher/Wox/) ![Freeware][freeware icon]
 
